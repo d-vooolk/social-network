@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "496997296136721e2ca099b287cd8727",
+    "revision": "88a8785f2f0c0ad0099835951921759b",
     "url": "/social-network/index.html"
   },
   {
@@ -8,40 +8,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/social-network/static/css/3.7b1bae76.chunk.css"
   },
   {
-    "revision": "02e5e1320cbeeeb32565",
+    "revision": "9c39e283c56f964653ac",
     "url": "/social-network/static/css/4.d166f73f.chunk.css"
   },
   {
-    "revision": "878361e41d3c4458f230",
+    "revision": "4798160f439d7c24edef",
     "url": "/social-network/static/css/main.e5de328d.chunk.css"
   },
   {
-    "revision": "4e1c7621abc9cca1c16f",
-    "url": "/social-network/static/js/2.37a5a1fb.chunk.js"
+    "revision": "a9a9d8ea4eb115686926",
+    "url": "/social-network/static/js/2.fdc21cd7.chunk.js"
   },
   {
     "revision": "f7e623707d9b37a3821ec4c3548a4309",
-    "url": "/social-network/static/js/2.37a5a1fb.chunk.js.LICENSE.txt"
+    "url": "/social-network/static/js/2.fdc21cd7.chunk.js.LICENSE.txt"
   },
   {
     "revision": "3daadb6b6422e7f2490c",
     "url": "/social-network/static/js/3.42bdf381.chunk.js"
   },
   {
-    "revision": "02e5e1320cbeeeb32565",
-    "url": "/social-network/static/js/4.7901ac2b.chunk.js"
+    "revision": "9c39e283c56f964653ac",
+    "url": "/social-network/static/js/4.837ff75b.chunk.js"
   },
   {
     "revision": "7f0eec8069a192085ec8",
     "url": "/social-network/static/js/5.ccba1a9a.chunk.js"
   },
   {
-    "revision": "878361e41d3c4458f230",
-    "url": "/social-network/static/js/main.452c56d4.chunk.js"
+    "revision": "4798160f439d7c24edef",
+    "url": "/social-network/static/js/main.0e7f22f7.chunk.js"
   },
   {
-    "revision": "4b5a79092c1646de43c3",
-    "url": "/social-network/static/js/runtime-main.e72ad4c9.js"
+    "revision": "87054633d713e3f65f24",
+    "url": "/social-network/static/js/runtime-main.9b094684.js"
   },
   {
     "revision": "6d48f5cbf9b708fc74422d1519ae908c",
