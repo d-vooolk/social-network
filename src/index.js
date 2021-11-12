@@ -1,15 +1,11 @@
 import reportWebVitals from './reportWebVitals';
-import store from "./redux/redux-store";
 import ReactDOM from "react-dom";
-import App from "./App";
 import React from "react";
-import {Provider} from "react-redux";
+import SamuraiJSApp from "./App";
 
 
 ReactDOM.render(
-        <Provider store={store}>
-            <App/>
-        </Provider>,
+            <SamuraiJSApp/>,
     document.getElementById('root')
 );
 

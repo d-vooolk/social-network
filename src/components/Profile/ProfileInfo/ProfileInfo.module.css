@@ -6,3 +6,17 @@
 .descriptionBlock {
     margin: 10px 0;
 }
+
+img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+}
+
+.contacts {
+    padding-left: 10px;
+}
